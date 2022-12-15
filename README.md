@@ -1,6 +1,6 @@
 # Ports
 
-FILE TRANSFER PROTOCOL(FTP)--20/21<br>*****<br>
+FILE TRANSFER PROTOCOL(FTP)--20/21<br>**************<br>
 SECURE SHELL(SSH) 22<br>*****<br>
 SECURED FILE TRANSFER PROTOCOL(SFTP) 22 USES SSH<br>*****<br>
 SECURE COPY 22 USES SSH<br>*****<br>
