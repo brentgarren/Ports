@@ -47,3 +47,5 @@ LAYER 2 TUNELLING PROTOCOL(L2TP) 1701<br><br>
 POINT TO POINT TUNNELING PROTOCOL(PPTP) 1723<br><br>
 **************
 REMOTE DESKTOP PROTOCOL(RDP) 3389<br><br>
+**************
+Virtual Network Computing(VNC) 5900<br><br>
